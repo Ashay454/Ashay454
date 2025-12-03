@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
+  <img src="./banner.png" alt="Trust Your Instincts Banner" width="100%" />
+</div>
 
-<!--
-**Ashay454/Ashay454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Ashay! 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>B.Tech CSE (AI & ML) Student | Aspiring AI/ML Engineer | Passionate About Data-Driven Solutions</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/ashay-mishra-838007387">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:advashaymishra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I am a **Computer Science (AI & ML)** student passionate about building intelligent systems and robust backends. I love solving complex problems using data structures and algorithms.
+
+- 🎓 **Current Status:** B.Tech Student specializing in Artificial Intelligence & Machine Learning.
+- 🔭 **I’m currently working on:** Building scalable APIs and AI-integrated web applications.
+- 🌱 **I’m currently learning:** Advanced Neural Networks and System Design.
+- 💡 **Interests:** Data Science, Backend Development, and Automation.
+
+---
+
+### 🛠️ Technical Skills
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+**Backend & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Development-Code-orange?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashay454&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashay454&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashay454&theme=radical&hide_border=true" height="150" alt="streak graph" />
+</div>
+
+---
+
+<p align="center">Made with ❤️ and Python</p>
