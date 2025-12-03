@@ -26,7 +26,7 @@ I am a **Computer Science (AI & ML)** student passionate about building intellig
 - 🎓 **Current Status:** B.Tech Student specializing in Artificial Intelligence & Machine Learning.
 - 🔭 **I’m currently working on:** Building scalable APIs and AI-integrated web applications.
 - 🌱 **I’m currently learning:** Advanced Neural Networks and System Design.
-- 💡 **Interests:** Data Science, Backend Development, and Automation.
+- 💡 **Interests:** Data Science, Cybersecurity, Backend Development, and Automation.
 
 ---
 
