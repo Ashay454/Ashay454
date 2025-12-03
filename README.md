@@ -53,17 +53,4 @@ I am a **Computer Science (AI & ML)** student passionate about building intellig
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashay454&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashay454&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashay454&theme=radical&hide_border=true" height="150" alt="streak graph" />
-</div>
-
----
-
 <p align="center">Made with ❤️ and Python</p>
